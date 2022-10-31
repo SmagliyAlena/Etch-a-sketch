@@ -1,0 +1,12 @@
+.board {
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+/* 
+.square {
+    border: 1px solid #000000;
+} */
+.border .square {
+    border: 1px solid #000000;
+}
